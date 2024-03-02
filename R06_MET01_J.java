@@ -24,6 +24,7 @@ public class R06_MET01_J {
         assert (absX <= Integer.MAX_VALUE - absY);
         return absX + absY;
     }
+    // Usage : getAbsAdd( Integer.MIN_VALUE, 1);
 
     //revised with compliant code
     public static int getAbsAdd(int x, int y) {
