@@ -1,6 +1,6 @@
 // Rule 13. Input Output (FIO)
 
-public class R013_FIO09_J {
+public class R13_FIO09_J{
     // FIO09-J. Do not rely on the write() method to output integers outside the range 0 to 255. Given the non-compliant code below:
     class ConsoleWrite {
         public static void main(String[] args) {
